@@ -234,7 +234,7 @@ function love.update(dt)
                 winningPlayer = 1
                 gameState = 'done'
             else
-                gameState = 'diff'
+                gameState = 'serve'
                 ball:reset()
             end
         end
@@ -296,7 +296,7 @@ function love.keypressed(key)
         elseif gameState == 'done' then
             -- game is simply in a restart phase here, but will set the serving
             -- player to the opponent of whomever won for fairness!
-            gameState = 'serve'
+            gameState = 'diff'
 
             ball:reset()
 
