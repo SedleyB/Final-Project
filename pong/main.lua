@@ -234,7 +234,7 @@ function love.update(dt)
                 winningPlayer = 1
                 gameState = 'done'
             else
-                gameState = 'serve'
+                gameState = 'diff'
                 ball:reset()
             end
         end
