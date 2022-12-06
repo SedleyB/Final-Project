@@ -9,6 +9,7 @@ project where like I mentioned earlier, if the ai or player score was even then 
 But I couldn't quite fiqure out how to make the powerups randomly activate along with some other bugs like the paddle not moving in certain scenarios, which concluded in
 me choosing to change my idea for the final project in order to have a finished product.
 
+
 What I Learned:
 
 Starting this project I knew nothing about creating games with code let alone things like lua or love, which is why I decided to do this particular project. I was
@@ -19,6 +20,7 @@ I've run into so many bumps along the road but whenever I figured out how to tac
 identify a problem but solve it which made me more confident in my abilities to write code. Another thing I've learned is that I've become more familiar with lua given 
 that I had to rewatch the CS50 videos multiple times to understand the code and read the lua programming manual I believe that I've become at the very least more 
 comfortable with lua and given that a couple of weeks ago I knew pratically nothing about lua I'd say that's an improvement.
+
 
 What I Enjoyed:
 
