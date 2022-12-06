@@ -27,3 +27,7 @@ something. I also enjoyed rewatching the CS50 videos whenever I was confused abo
 find solutions to the problems. As I mentioned earlier I said it gave me satisfaction whenever I solved something or when something worked as I intended, which is why 
 enjoyed it the most. Seeing code that I've written work as intened is definitely the best part about the project because as I mentioned earlier essentially seeing code 
 that I've written basically "come to life" gives me a sense of accomplishment.
+
+Video:
+
+https://www.youtube.com/watch?v=ft4aKPf4Yok
