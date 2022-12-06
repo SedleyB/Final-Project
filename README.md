@@ -1,6 +1,7 @@
 # Final-Project
 
 Difficulties:
+
 As I stated in my Progress Report my original concept was to have the pong game but every time a player (either the ai or human) score would be even they would activate
 a powerup. There would've been 4 powerups in total the first one was doubling the player's paddle length, the second one was doubling the player's paddle speed, the
 third one was cutting the enemy's paddle length in half, and lastly the fourth one was diving the enemy's paddle speed in half. With these powerups I wanted to create a 
@@ -9,6 +10,7 @@ But I couldn't quite fiqure out how to make the powerups randomly activate along
 me choosing to change my idea for the final project in order to have a finished product.
 
 What I Learned:
+
 Starting this project I knew nothing about creating games with code let alone things like lua or love, which is why I decided to do this particular project. I was
 already interested in the idea but what really finalized my decision was that we could essentially use the final project to learn something and have fun with it at that 
 moment I knew Pong was going to be my final project. As I mentioned earlier I knew nothing about game development so I watched the CS50 videos time after time in order 
@@ -19,6 +21,7 @@ that I had to rewatch the CS50 videos multiple times to understand the code and 
 comfortable with lua and given that a couple of weeks ago I knew pratically nothing about lua I'd say that's an improvement.
 
 What I Enjoyed:
+
 There were many things I enjoyed about this project but the main parts I enjoyed was just learning. I enjoyed reading the lua programming manual whenever I was stuck on 
 something. I also enjoyed rewatching the CS50 videos whenever I was confused about a particular part in the code. Lastly, the part I enjoyed the most was being able to 
 find solutions to the problems. As I mentioned earlier I said it gave me satisfaction whenever I solved something or when something worked as I intended, which is why 
